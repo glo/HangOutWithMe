@@ -1,9 +1,92 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Greeting</title>
-  </head>
-  <body>
-    <p>Hello, friends!</p>
-  </body>
+<!DOCTYPE HTML>
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<!-- Don't know why the below external style sheet doesn't work.
+	<link rel="stylesheet" type="text/css" 
+	      href="iphone.css" media="only screen and (max-width: 480px)" />
+	-->
+	
+	<title>Hang Out With Me</title>
+	<meta name="generator" content="TextMate http://macromates.com/">
+	<meta name="author" content="Gloria Lin">
+	<meta name = "viewport" content = "user-scalable = no, width=device-width" />
+	<!-- Date: 2013-03-16 -->
+
+	<style>
+	body {
+			background-color: #ddd;  /* Background color */
+	/*		background: linear-gradient(top, #fff, #f8f8f8); */
+	/*		background-image: -webkit-gradient(linear, left top, left bottom, 
+			                                       from(#ccc), to(#ddd)); */
+			font-family: Helvetica;
+			font-size: 14px;
+			margin: 0;
+			padding: 0;
+	}
+
+	form {
+/*		background: linear-gradient(top, #fff, #f8f8f8); */
+/*		border: 1px solid #d0d2d5;
+		border-bottom: 1px solid #bebfc2;
+		border-radius: 4px; */
+		margin: 0 0 20px 0;
+		padding: 20px;
+		width: auto;
+	}
+
+	label {
+		color: #404853;
+		display: block;
+		font-family: Helvetica;
+		font-weight: bold; 
+	}
+
+	input {
+		background: #fff;
+		border: 1px solid #c6c9cc;
+		border-radius: 4px;
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 #fff; 
+		color: #555;
+		margin: 6px 0 6px 0;
+		padding: 5px;
+		width: 200px;
+	}
+
+	fieldset {
+		background: linear-gradient(top, #ebeced, #dedfe0);
+		border: none;
+/*		border-top: 1px solid #d0d2d5;
+		border-radius: 0 0 4px 4px;
+		box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.75);  */
+		margin: 5px 0 -20px -20px;
+		padding: 18px 20px;
+		width: 212px;
+	}
+
+	fieldset input {
+		margin: 0;
+		width: auto;
+		display: block;
+		font-family: Helvetica;
+		font-weight: bold;
+		font-size: 1em;
+	}
+	
+	</style>
+		
+</head>
+
+<body>
+	<form>
+		<label for = "activity">Let's</label>
+		<input type = "text" name = "activity" placeholder="go to DPark, eat soup dumplings">
+		<label for = "timeframe">sometime in the next 24 hours.</label>
+		<fieldset>
+			<input type = "submit" name = "submit" value = "Share">
+		</fieldset>
+	</form>
+</body>
 </html>
