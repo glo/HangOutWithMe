@@ -7,6 +7,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
+gem 'capybara'
 
 
 # Gems used only for assets and not required
