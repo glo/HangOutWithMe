@@ -6,11 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    
     <!-- Le styles -->
-    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" />
-    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="css/bootstrap-marketing-template.css" rel="stylesheet" />
-    <link href="css/hangout.css" rel="stylesheet" />
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet" />    
+    <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="../css/bootstrap-timepicker.min.css" type="text/css"/>
+    <link href="../css/bootstrap-marketing-template.css" rel="stylesheet" />
+    <link href="../css/hangout.css" rel="stylesheet" />
 
 <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!-- Fav and touch icons -->
@@ -40,24 +42,31 @@
       <hr>
 -->
       <div class="jumbotron">
-        <h1>Oh hai, <span class="username">Gloria</span>.<br />Whatcha wanna do?</h1>
+        <h1>Hai <span class="username">friend</span>.<br />Whatcha wanna do?</h1>
 <!--
         <p class="lead">Tell your friends what you want to do and when.</p>
 -->
-        <form class="form-inline hangout">
+        <div class="hero-unit"> 
+        <form class="form-inline hangout">   
           <span>Let's</span> 
-          <input placeholder="hang out, eat ramen" class="input-large" type="text" name="event-description" id="event-description" /> 
+          <input placeholder="eat ramen" class="input-large" type="text" name="event-description" id="event-description" /> 
           <span>at</span>
-          <input placeholder="Dolores Park, Ken-Ken Ramen" class="input-large" type="text" name="event-location" /><!-- TODO: ENABLE FOURSQUARE -->
-          <span>at</span> 
-          <input type="time" name="event-time" id="event-time">
-  <div class="btn-group" data-toggle="buttons-radio">
-    <button type="button" class="btn">Left</button>
-    <button type="button" class="btn">Middle</button>
-    <button type="button" class="btn">Right</button>
+          <input placeholder="Ken-Ken Ramen" class="input-medium" type="text" name="event-location" />
+          <!-- TODO: ENABLE FOURSQUARE -->
+
+          <!-- Below is example from Bootstrap-Timepicker website -->
+          <p>
+          <div class="input-append bootstrap-timepicker">
+              <span>Time</span>
+              <input id="timepicker1" type="text" class="input-small"> 
+              <span class="add-on"><i class="icon-time"></i></span>
           </div>
-          <button class="btn btn-large btn-success" href="#">Share</button>
+          <br>
+       
+          <p><br>
+          <button class="btn btn-primary btn-large" href="#">Share</button>
         </form>
+        </div>
       </div>
 
       <hr>
@@ -98,7 +107,11 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-1.9.1.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+    <script src="../js/jquery-1.9.1.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../js/bootstrap-timepicker.min.js"></script>
+    <script type="text/javascript">
+         $('#timepicker1').timepicker();
+    </script>
   </body>
 </html>
