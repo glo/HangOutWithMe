@@ -21,7 +21,7 @@ HelloWorld::Application.configure do
   config.assets.digest = true
   
   # Tryin' to make Boostrap CSS and JS get compiled by Rails/Heroku
-  config.assets.precompile += %w[ bootstrap/*.css bootstrap/*.js ]
+#  config.assets.precompile += %w[ bootstrap/*.css bootstrap/*.js ]
 
   # Defaults to nil and saved in location specified by config.assets.prefix
   # config.assets.manifest = YOUR_PATH
