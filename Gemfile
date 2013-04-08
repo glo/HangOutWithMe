@@ -11,7 +11,7 @@ gem 'capybara'
 gem 'bcrypt-ruby', '3.0.1'
 # gem 'twitter-bootstrap-rails'
 gem 'bootstrap-sass', '2.1'
-# gem 'bootstrap-timepicker-rails'
+gem 'bootstrap-timepicker-rails'
 
 
 # Gems used only for assets and not required
