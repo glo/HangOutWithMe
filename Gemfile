@@ -9,7 +9,8 @@ gem 'rails', '3.2.12'
 gem 'pg'
 gem 'capybara'
 gem 'bcrypt-ruby', '3.0.1'
-gem "twitter-bootstrap-rails"
+# gem 'twitter-bootstrap-rails'
+gem 'bootstrap-sass', '2.1'
 # gem 'bootstrap-timepicker-rails'
 
 

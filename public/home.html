@@ -8,11 +8,22 @@
     <meta name="author" content="">
     
     <!-- Le styles -->
+    <!-- Below worked when running locally
     <link href="../bootstrap/css/bootstrap.css" rel="stylesheet" />    
     <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="../css/bootstrap-timepicker.min.css" type="text/css"/>
     <link href="../css/bootstrap-marketing-template.css" rel="stylesheet" />
     <link href="../css/hangout.css" rel="stylesheet" />
+    -->
+    
+    <!-- Trying to make stylesheets work with Rails. -->
+     <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-responsive.min.css" rel="stylesheet">
+     <link href="/apps/assets/stylesheets/hangout.css.scss" rel="stylesheet" />
+ <!--    <link href="../css/bootstrap-timepicker.min.css" type="text/css"/>
+     <link href="../css/bootstrap-marketing-template.css" rel="stylesheet" />
+     -->
+    
+    
 
 <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!-- Fav and touch icons -->
@@ -107,9 +118,16 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    
+     <!-- Below worked when running locally
     <script src="../js/jquery-1.9.1.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="../js/bootstrap-timepicker.min.js"></script>
+    -->
+    
+      <!-- Trying to make stylesheets work with Rails. Need to move JS too -->
+      <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+    
     <script type="text/javascript">
          $('#timepicker1').timepicker();
     </script>
