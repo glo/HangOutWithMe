@@ -11,7 +11,8 @@ gem 'capybara'
 gem 'bcrypt-ruby', '3.0.1'
 # gem 'twitter-bootstrap-rails'
 gem 'bootstrap-sass', '2.1'
-gem 'bootstrap-timepicker-rails'
+gem 'bootstrap-timepicker-rails', :require => 'bootstrap-timepicker-rails',
+                              :git => 'git://github.com/tispratik/bootstrap-timepicker-rails.git'
 
 
 # Gems used only for assets and not required
