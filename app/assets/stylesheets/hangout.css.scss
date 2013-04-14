@@ -1,21 +1,8 @@
 @import "bootstrap";
 
-h1 {
+.hero-unit h1 {
+  font-size: 56px;
   margin-bottom: 20px;
-}
-
-form.hangout span {
-  display: inline-block;
-  font-size: 25px;
-  line-height: 20px;
-  /* HACK */
-  position: relative;
-  top: 3px;
-  /* END HACK */
-}
-
-form.hangout span, form.hangout button, form.hangout input {
-  margin: 0px 6px;
 }
 
 #event-time {
