@@ -5,7 +5,8 @@
 #  id         :integer          not null, primary key
 #  name       :string(255)
 #  email      :string(255)
-#  phone      :string(255)
+#  phone      :integer
+#  facebook_id :integer
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
 #
@@ -120,7 +121,6 @@ describe User do
   end
   
   # NEED TO ADD A VALIDATION CHECK FOR PHONE NUMBERS, 10 NUMBERS
-  # CURRENTLY THIS IS A STRING, SHOULD IT BE AN INTEGER?
   
   
   
