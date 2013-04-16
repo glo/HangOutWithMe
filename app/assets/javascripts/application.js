@@ -13,6 +13,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap
-//= require bootstrap-timepicker
-//= require bootstrap-responsive
 //= require_tree .
