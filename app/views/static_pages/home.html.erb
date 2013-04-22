@@ -1,3 +1,14 @@
+    <!-- Navbar top shows whether user is logged in, and if so, their identity -->
+    <div id="user_nav">
+      <% if current_user %>
+        <%= image_tag current_user.image %>
+        Signed in as <strong><%= current_user.name %></strong>!
+        <%= link_to "Sign out", signout_path, id: "sign_out" %>
+      <% else %>
+        <%= link_to "Sign in with Facebook", "/auth/facebook", id: "sign_in" %>
+      <% end %>
+    </div>
+   
     <div class="container">
       <div class="hero-unit">
         <h1>

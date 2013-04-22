@@ -2,13 +2,18 @@
 #
 # Table name: users
 #
-#  id         :integer          not null, primary key
-#  name       :string(255)
-#  email      :string(255)
-#  phone      :integer
-#  facebook_id :integer
-#  created_at :datetime         not null
-#  updated_at :datetime         not null
+#  id               :integer          not null, primary key
+#  name             :string(255)
+#  email            :string(255)
+#  phone            :string(255)
+#  created_at       :datetime         not null
+#  updated_at       :datetime         not null
+#  password_digest  :string(255)
+#  provider         :string(255)
+#  uid              :integer
+#  image            :string(255)
+#  oauth_token      :string(255)
+#  oauth_expires_at :datetime
 #
 
 require 'spec_helper'
@@ -118,10 +123,6 @@ describe User do
       it { should_not == user_for_invalid_password }
       specify { user_for_invalid_password.should be_false }
     end
-  end
-  
-  # NEED TO ADD A VALIDATION CHECK FOR PHONE NUMBERS, 10 NUMBERS
-  
-  
+  end  
   
 end

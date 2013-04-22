@@ -13,7 +13,7 @@ gem 'bcrypt-ruby', '3.0.1'
 gem 'bootstrap-sass', '2.1'
 gem 'bootstrap-timepicker-rails', :require => 'bootstrap-timepicker-rails',
                               :git => 'git://github.com/tispratik/bootstrap-timepicker-rails.git'
-
+gem 'omniauth-facebook', '1.4.0'
 
 # Gems used only for assets and not required
 # in production environments by default.

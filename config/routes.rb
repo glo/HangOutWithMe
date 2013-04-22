@@ -1,12 +1,18 @@
 HelloWorld::Application.routes.draw do
   
   resources :users
-
+ 
+  # Below is from Hartl Tutorial
   root :to => 'static_pages#home'
   match '/signup',  to: 'users#new'
   match '/help',    to: 'static_pages#help'
   match '/about',   to: 'static_pages#about'
   match '/contact', to: 'static_pages#contact'
+
+  # Below is from RailsCast #360, Facebook omniauth
+  match 'auth/:provider/callback', to: 'sessions#create'
+  match 'auth/failure', to: redirect('/')
+  match 'signout', to: 'sessions#destroy', as: 'signout'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
