@@ -14,6 +14,8 @@ gem 'bootstrap-sass', '2.1'
 gem 'bootstrap-timepicker-rails', :require => 'bootstrap-timepicker-rails',
                               :git => 'git://github.com/tispratik/bootstrap-timepicker-rails.git'
 gem 'omniauth-facebook', '1.4.0'
+gem 'will_paginate', '3.0.3'
+gem 'faker', '1.0.1'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -38,6 +40,7 @@ end
 
 group :test do
   gem 'factory_girl_rails', '4.1.0'
+   gem 'debugger'
 end
 
 group :production do
@@ -57,6 +60,3 @@ gem 'jquery-rails', '2.0.2'
 
 # Deploy with Capistrano
 # gem 'capistrano'
-
-# To use debugger
-# gem 'debugger'

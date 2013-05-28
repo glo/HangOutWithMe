@@ -18,7 +18,8 @@
 
 class User < ActiveRecord::Base
 #  attr_accessible :email, :name, :phone, :password, :password_confirmation
-  
+  attr_accessible :email, :name, :uid, :provider, :phone
+    
 #  has_secure_password
   
 #  before_save { |user| user.email = email.downcase }
@@ -39,15 +40,26 @@ class User < ActiveRecord::Base
     end
   end
   
- # validates :name, presence: true, length: {maximum: 50} 
- # VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
- # validates :email, presence: true, 
- #                    format: { with: VALID_EMAIL_REGEX },
- #                    uniqueness: { case_sensitive: false }
- 
- # TODO: Add the below phone validation back in when I have UI to ask for phone #
- # validates :phone, presence: true, length: {is: 10}
+  has_many :events, dependent: :destroy
+  
+  # TODO: Turn phone from string into integer
+#   validates :phone, presence: true, length: {is: 10}
+  
+
+  validates :name, presence: true, length: {maximum: 50} 
+  
+# TODO: GET EMAIL FROM FACEBOOK, THEN ADD BACK VALIDATES EMAIL  
+  VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
+#  validates :email, presence: true, 
+#                     format: { with: VALID_EMAIL_REGEX },
+#                     uniqueness: { case_sensitive: false }
  
  # validates :password, presence: true, length: { minimum: 6 }
  # validates :password_confirmation, presence: true
+ 
+  def feed
+    # This is preliminary. See "Following users" for the full implementation.
+    Event.where("user_id = ?", id)
+  end
+ 
 end

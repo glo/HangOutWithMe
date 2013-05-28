@@ -1,0 +1,13 @@
+<li>
+  <span class="activity">Let&#39;s <%= event.activity %> </span>
+  <span class="location">at <%= event.location %></span>
+  <span class="timestamp">
+    Posted <%= time_ago_in_words(event.created_at) %> ago.
+  </span>
+  <!-- <% if current_user?(event.user) %>
+      <%= link_to "delete", event, method: :delete,
+                                      data: { confirm: "You sure?" },
+                                       title: event.activity %>
+    <% end %> -->
+  
+</li>
