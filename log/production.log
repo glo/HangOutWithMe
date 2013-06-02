@@ -496,3 +496,364 @@ Compiled facebook.js  (197ms)  (pid 4714)
 Compiled hangout_timepicker.js  (0ms)  (pid 4714)
 Compiled application.js  (498ms)  (pid 4714)
 Compiled bootstrap-timepicker.css  (0ms)  (pid 4714)
+Compiled jquery.js  (3ms)  (pid 1514)
+Compiled jquery_ujs.js  (1ms)  (pid 1514)
+Compiled bootstrap-transition.js  (0ms)  (pid 1514)
+Compiled bootstrap-affix.js  (0ms)  (pid 1514)
+Compiled bootstrap-alert.js  (0ms)  (pid 1514)
+Compiled bootstrap-button.js  (1ms)  (pid 1514)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1514)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1514)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1514)
+Compiled bootstrap-modal.js  (1ms)  (pid 1514)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1514)
+Compiled bootstrap-tab.js  (1ms)  (pid 1514)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1514)
+Compiled bootstrap-popover.js  (1ms)  (pid 1514)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1514)
+Compiled bootstrap.js  (202ms)  (pid 1514)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1514)
+Compiled facebook.js  (487ms)  (pid 1514)
+Compiled hangout_timepicker.js  (0ms)  (pid 1514)
+Compiled application.js  (830ms)  (pid 1514)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1514)
+Compiled jquery.js  (3ms)  (pid 1532)
+Compiled jquery_ujs.js  (1ms)  (pid 1532)
+Compiled bootstrap-transition.js  (0ms)  (pid 1532)
+Compiled bootstrap-affix.js  (0ms)  (pid 1532)
+Compiled bootstrap-alert.js  (0ms)  (pid 1532)
+Compiled bootstrap-button.js  (0ms)  (pid 1532)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1532)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1532)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1532)
+Compiled bootstrap-modal.js  (1ms)  (pid 1532)
+Compiled bootstrap-scrollspy.js  (1ms)  (pid 1532)
+Compiled bootstrap-tab.js  (0ms)  (pid 1532)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1532)
+Compiled bootstrap-popover.js  (0ms)  (pid 1532)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1532)
+Compiled bootstrap.js  (185ms)  (pid 1532)
+Compiled bootstrap-timepicker.js  (2ms)  (pid 1532)
+Compiled facebook.js  (393ms)  (pid 1532)
+Compiled hangout_timepicker.js  (0ms)  (pid 1532)
+Compiled application.js  (713ms)  (pid 1532)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1532)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (54ms)  (pid 1532)
+Compiled hangout.css  (4048ms)  (pid 1532)
+Compiled application.css  (4146ms)  (pid 1532)
+Compiled jquery.js  (3ms)  (pid 1532)
+Compiled jquery_ujs.js  (0ms)  (pid 1532)
+Compiled bootstrap-transition.js  (0ms)  (pid 1532)
+Compiled bootstrap-affix.js  (0ms)  (pid 1532)
+Compiled bootstrap-alert.js  (0ms)  (pid 1532)
+Compiled bootstrap-button.js  (1ms)  (pid 1532)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1532)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1532)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1532)
+Compiled bootstrap-modal.js  (1ms)  (pid 1532)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1532)
+Compiled bootstrap-tab.js  (1ms)  (pid 1532)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1532)
+Compiled bootstrap-popover.js  (33ms)  (pid 1532)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1532)
+Compiled bootstrap.js  (183ms)  (pid 1532)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1532)
+Compiled facebook.js  (206ms)  (pid 1532)
+Compiled hangout_timepicker.js  (0ms)  (pid 1532)
+Compiled application.js  (475ms)  (pid 1532)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1532)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (47ms)  (pid 1532)
+Compiled hangout.css  (3761ms)  (pid 1532)
+Compiled application.css  (3842ms)  (pid 1532)
+Compiled jquery.js  (3ms)  (pid 1663)
+Compiled jquery_ujs.js  (0ms)  (pid 1663)
+Compiled bootstrap-transition.js  (0ms)  (pid 1663)
+Compiled bootstrap-affix.js  (0ms)  (pid 1663)
+Compiled bootstrap-alert.js  (0ms)  (pid 1663)
+Compiled bootstrap-button.js  (0ms)  (pid 1663)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1663)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1663)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1663)
+Compiled bootstrap-modal.js  (1ms)  (pid 1663)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1663)
+Compiled bootstrap-tab.js  (0ms)  (pid 1663)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1663)
+Compiled bootstrap-popover.js  (1ms)  (pid 1663)
+Compiled bootstrap-typeahead.js  (1ms)  (pid 1663)
+Compiled bootstrap.js  (211ms)  (pid 1663)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1663)
+Compiled facebook.js  (566ms)  (pid 1663)
+Compiled hangout_timepicker.js  (0ms)  (pid 1663)
+Compiled application.js  (933ms)  (pid 1663)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1663)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (58ms)  (pid 1663)
+Compiled hangout.css  (4003ms)  (pid 1663)
+Compiled application.css  (4097ms)  (pid 1663)
+Compiled jquery.js  (4ms)  (pid 1663)
+Compiled jquery_ujs.js  (0ms)  (pid 1663)
+Compiled bootstrap-transition.js  (0ms)  (pid 1663)
+Compiled bootstrap-affix.js  (0ms)  (pid 1663)
+Compiled bootstrap-alert.js  (0ms)  (pid 1663)
+Compiled bootstrap-button.js  (0ms)  (pid 1663)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1663)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1663)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1663)
+Compiled bootstrap-modal.js  (0ms)  (pid 1663)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1663)
+Compiled bootstrap-tab.js  (1ms)  (pid 1663)
+Compiled bootstrap-tooltip.js  (1ms)  (pid 1663)
+Compiled bootstrap-popover.js  (30ms)  (pid 1663)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1663)
+Compiled bootstrap.js  (195ms)  (pid 1663)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1663)
+Compiled facebook.js  (376ms)  (pid 1663)
+Compiled hangout_timepicker.js  (1ms)  (pid 1663)
+Compiled application.js  (694ms)  (pid 1663)
+Compiled bootstrap-timepicker.css  (1ms)  (pid 1663)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (58ms)  (pid 1663)
+Compiled hangout.css  (4062ms)  (pid 1663)
+Compiled application.css  (4156ms)  (pid 1663)
+Compiled jquery.js  (4ms)  (pid 1555)
+Compiled jquery_ujs.js  (0ms)  (pid 1555)
+Compiled bootstrap-transition.js  (0ms)  (pid 1555)
+Compiled bootstrap-affix.js  (0ms)  (pid 1555)
+Compiled bootstrap-alert.js  (0ms)  (pid 1555)
+Compiled bootstrap-button.js  (0ms)  (pid 1555)
+Compiled bootstrap-carousel.js  (1ms)  (pid 1555)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1555)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1555)
+Compiled bootstrap-modal.js  (0ms)  (pid 1555)
+Compiled bootstrap-scrollspy.js  (1ms)  (pid 1555)
+Compiled bootstrap-tab.js  (0ms)  (pid 1555)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1555)
+Compiled bootstrap-popover.js  (1ms)  (pid 1555)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1555)
+Compiled bootstrap.js  (174ms)  (pid 1555)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1555)
+Compiled facebook.js  (375ms)  (pid 1555)
+Compiled hangout_timepicker.js  (0ms)  (pid 1555)
+Compiled application.js  (685ms)  (pid 1555)
+Compiled bootstrap-timepicker.css  (1ms)  (pid 1555)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (52ms)  (pid 1555)
+Compiled hangout.css  (4019ms)  (pid 1555)
+Compiled application.css  (4109ms)  (pid 1555)
+Compiled jquery.js  (3ms)  (pid 1555)
+Compiled jquery_ujs.js  (0ms)  (pid 1555)
+Compiled bootstrap-transition.js  (0ms)  (pid 1555)
+Compiled bootstrap-affix.js  (1ms)  (pid 1555)
+Compiled bootstrap-alert.js  (1ms)  (pid 1555)
+Compiled bootstrap-button.js  (1ms)  (pid 1555)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1555)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1555)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1555)
+Compiled bootstrap-modal.js  (1ms)  (pid 1555)
+Compiled bootstrap-scrollspy.js  (1ms)  (pid 1555)
+Compiled bootstrap-tab.js  (1ms)  (pid 1555)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1555)
+Compiled bootstrap-popover.js  (39ms)  (pid 1555)
+Compiled bootstrap-typeahead.js  (1ms)  (pid 1555)
+Compiled bootstrap.js  (222ms)  (pid 1555)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1555)
+Compiled facebook.js  (235ms)  (pid 1555)
+Compiled hangout_timepicker.js  (1ms)  (pid 1555)
+Compiled application.js  (554ms)  (pid 1555)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1555)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (52ms)  (pid 1555)
+Compiled hangout.css  (3723ms)  (pid 1555)
+Compiled application.css  (3805ms)  (pid 1555)
+Compiled jquery.js  (3ms)  (pid 1605)
+Compiled jquery_ujs.js  (0ms)  (pid 1605)
+Compiled bootstrap-transition.js  (0ms)  (pid 1605)
+Compiled bootstrap-affix.js  (0ms)  (pid 1605)
+Compiled bootstrap-alert.js  (0ms)  (pid 1605)
+Compiled bootstrap-button.js  (0ms)  (pid 1605)
+Compiled bootstrap-carousel.js  (1ms)  (pid 1605)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1605)
+Compiled bootstrap-dropdown.js  (1ms)  (pid 1605)
+Compiled bootstrap-modal.js  (0ms)  (pid 1605)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1605)
+Compiled bootstrap-tab.js  (0ms)  (pid 1605)
+Compiled bootstrap-tooltip.js  (26ms)  (pid 1605)
+Compiled bootstrap-popover.js  (1ms)  (pid 1605)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1605)
+Compiled bootstrap.js  (182ms)  (pid 1605)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1605)
+Compiled facebook.js  (218ms)  (pid 1605)
+Compiled hangout_timepicker.js  (0ms)  (pid 1605)
+Compiled application.js  (527ms)  (pid 1605)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1605)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (51ms)  (pid 1605)
+Compiled hangout.css  (3822ms)  (pid 1605)
+Compiled application.css  (3906ms)  (pid 1605)
+Compiled jquery.js  (4ms)  (pid 1605)
+Compiled jquery_ujs.js  (0ms)  (pid 1605)
+Compiled bootstrap-transition.js  (0ms)  (pid 1605)
+Compiled bootstrap-affix.js  (0ms)  (pid 1605)
+Compiled bootstrap-alert.js  (0ms)  (pid 1605)
+Compiled bootstrap-button.js  (1ms)  (pid 1605)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1605)
+Compiled bootstrap-collapse.js  (1ms)  (pid 1605)
+Compiled bootstrap-dropdown.js  (1ms)  (pid 1605)
+Compiled bootstrap-modal.js  (0ms)  (pid 1605)
+Compiled bootstrap-scrollspy.js  (1ms)  (pid 1605)
+Compiled bootstrap-tab.js  (1ms)  (pid 1605)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1605)
+Compiled bootstrap-popover.js  (38ms)  (pid 1605)
+Compiled bootstrap-typeahead.js  (1ms)  (pid 1605)
+Compiled bootstrap.js  (215ms)  (pid 1605)
+Compiled bootstrap-timepicker.js  (2ms)  (pid 1605)
+Compiled facebook.js  (214ms)  (pid 1605)
+Compiled hangout_timepicker.js  (1ms)  (pid 1605)
+Compiled application.js  (534ms)  (pid 1605)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1605)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (49ms)  (pid 1605)
+Compiled hangout.css  (3685ms)  (pid 1605)
+Compiled application.css  (3763ms)  (pid 1605)
+Compiled jquery.js  (3ms)  (pid 1657)
+Compiled jquery_ujs.js  (0ms)  (pid 1657)
+Compiled bootstrap-transition.js  (0ms)  (pid 1657)
+Compiled bootstrap-affix.js  (0ms)  (pid 1657)
+Compiled bootstrap-alert.js  (0ms)  (pid 1657)
+Compiled bootstrap-button.js  (0ms)  (pid 1657)
+Compiled bootstrap-carousel.js  (1ms)  (pid 1657)
+Compiled bootstrap-collapse.js  (1ms)  (pid 1657)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1657)
+Compiled bootstrap-modal.js  (0ms)  (pid 1657)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 1657)
+Compiled bootstrap-tab.js  (1ms)  (pid 1657)
+Compiled bootstrap-tooltip.js  (26ms)  (pid 1657)
+Compiled bootstrap-popover.js  (0ms)  (pid 1657)
+Compiled bootstrap-typeahead.js  (1ms)  (pid 1657)
+Compiled bootstrap.js  (176ms)  (pid 1657)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1657)
+Compiled facebook.js  (215ms)  (pid 1657)
+Compiled hangout_timepicker.js  (0ms)  (pid 1657)
+Compiled application.js  (509ms)  (pid 1657)
+Compiled bootstrap-timepicker.css  (1ms)  (pid 1657)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (47ms)  (pid 1657)
+Compiled hangout.css  (3952ms)  (pid 1657)
+Compiled application.css  (4035ms)  (pid 1657)
+Compiled jquery.js  (3ms)  (pid 1657)
+Compiled jquery_ujs.js  (1ms)  (pid 1657)
+Compiled bootstrap-transition.js  (0ms)  (pid 1657)
+Compiled bootstrap-affix.js  (0ms)  (pid 1657)
+Compiled bootstrap-alert.js  (1ms)  (pid 1657)
+Compiled bootstrap-button.js  (1ms)  (pid 1657)
+Compiled bootstrap-carousel.js  (0ms)  (pid 1657)
+Compiled bootstrap-collapse.js  (0ms)  (pid 1657)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 1657)
+Compiled bootstrap-modal.js  (1ms)  (pid 1657)
+Compiled bootstrap-scrollspy.js  (1ms)  (pid 1657)
+Compiled bootstrap-tab.js  (0ms)  (pid 1657)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 1657)
+Compiled bootstrap-popover.js  (37ms)  (pid 1657)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 1657)
+Compiled bootstrap.js  (211ms)  (pid 1657)
+Compiled bootstrap-timepicker.js  (1ms)  (pid 1657)
+Compiled facebook.js  (224ms)  (pid 1657)
+Compiled hangout_timepicker.js  (1ms)  (pid 1657)
+Compiled application.js  (529ms)  (pid 1657)
+Compiled bootstrap-timepicker.css  (0ms)  (pid 1657)
+WARNING on line 99 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".control-group".
+  The selector ".control-group" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .control-group !optional" if the extend should be able to fail.
+
+WARNING on line 100 of /Users/glorialin/hangoutwithme/app/assets/stylesheets/custom.css.scss: ".field_with_errors" failed to @extend ".error".
+  The selector ".error" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .error !optional" if the extend should be able to fail.
+
+Compiled custom.css  (46ms)  (pid 1657)
+Compiled hangout.css  (3740ms)  (pid 1657)
+Compiled application.css  (3817ms)  (pid 1657)
