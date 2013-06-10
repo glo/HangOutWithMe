@@ -59,7 +59,8 @@ class User < ActiveRecord::Base
  
   def feed
     # This is preliminary. See "Following users" for the full implementation.
-    Event.where("user_id = ?", id)
+    # Event.where("user_id = ?", id)
+     Event.where("user_id IS NOT NULL")
   end
  
 end
