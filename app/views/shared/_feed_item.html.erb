@@ -1,6 +1,6 @@
 <li id="<%= feed_item.id %>">
   <span class="user">
-      <%= image_tag current_user.image, size: 10 %>
+      <%= image_tag feed_item.user.image, size: 10 %>
       <%= link_to feed_item.user.name, feed_item.user %>
   </span>
  <!--  <span class="activity">Let&#39;s <%= feed_item.activity %> </span> -->
